@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <img src="http://techstory.in/wp-content/uploads/2016/06/elon-musk-iron-man.jpg" alt="Trulli" width="500" height="333">
     <meta charset="UTF-8">
     <title>OwO</title>
 </head>
@@ -12,10 +13,10 @@ h1   {color: aqua;}
 p    {color: aqua;}
 </style>
 fuk of boi
-<h1>Zu u want 2 buld an auswitchThis is a heading</h1>
+<h1>Zu u want 2 buld an auswitch</h1>
         Tis is a  (づ ͡° ³ ͡°)づ
       gut ide 4 pepole
-  hvis du vil ha noe fint og dyr så kjøp det. omaiuva no sinjeru nani, bidiii  
+  hvis du vil ha noe fint og dyrt så kjøp det. omaiuva no sinjeru nani, bidiii  
     
       <p></p>
           
