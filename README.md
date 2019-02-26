@@ -47,10 +47,7 @@ p    {color: aqua;}
 </style>
 <p><a href="https://burntur.github.io/hppg-my-ass/">kom til min netside (:</a></p>
 <h1>Zu u want 2 buld an auswitch</h1>
-        Tis is a  (づ ͡° ³ ͡°)づ
-      gut ide 4 pepole
-  hvis du vil ha noe fint og dyrt så kjøp det. omaiuva no sinjeru nani, bidiii  
-    
+Velkom til min netside for alle som fant linken. ((:
       <p></p>
           
          
