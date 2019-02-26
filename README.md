@@ -46,7 +46,7 @@ h1   {color: aqua;}
 p    {color: aqua;}
 </style>
 <p><a href="https://burntur.github.io/hppg-my-ass/">kom til min netside (:</a></p>
-<h1>Zu u want 2 buld an auswitch</h1>
+<h1>min beste (og eneste) netside</h1>
 Velkom til min netside for alle som fant linken. ((:
       <p></p>
           
