@@ -12,7 +12,8 @@ body {background-color: #b30000;}
 h1   {color: aqua;}
 p    {color: aqua;}
 </style>
-fuk of boi
+<a href="url">link text</a>
+linken til min netside
 <h1>Zu u want 2 buld an auswitch</h1>
         Tis is a  (づ ͡° ³ ͡°)づ
       gut ide 4 pepole
