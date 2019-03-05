@@ -31,20 +31,12 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+    </style>
 </head>
 
 
 <Body>
 
-
-<style>
-
-body {background-color: #b30000;}
-
-h1   {color: aqua;}
-
-p    {color: aqua;}
-</style>
 <p><a href="https://burntur.github.io/hppg-my-ass/">kom til min netside (:</a></p>
 <h1>min beste (og eneste) netside</h1>
 Velkom til min netside for alle som fant linken. ((:
