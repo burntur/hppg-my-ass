@@ -3,14 +3,13 @@
 <head>
     <img src="http://techstory.in/wp-content/uploads/2016/06/elon-musk-iron-man.jpg" alt="Trulli" width="500" height="333">
     
-    
-    
     <meta charset="UTF-8">
     
     
     
     <title>OwO</title>
 <style>
+body{background-color:#00ffa7;
 a:link {
   color: green;
   background-color: transparent;
